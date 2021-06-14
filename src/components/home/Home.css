@@ -1,0 +1,125 @@
+main {
+  background-color: #f0f8ff;
+  grid-area: main;
+}
+
+.main__container {
+  padding: 20px 20px;
+  padding-left: 60px;
+}
+
+.main__title {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+  
+}
+
+.main__cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 30px;
+  margin: 20px 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 46px;
+  padding: 18px;
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow:-4px 2px 14px #ededed;
+}
+
+.card_inner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.card_inner > span {
+  font-size: 25px;
+}
+
+
+.charts {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.chart-header {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    padding: 20px 25px;
+}
+
+.chart-bg {
+    background-color: #ffffff;
+}
+
+.chart-header-items {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.btn-group {
+    position: relative;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    vertical-align: middle;
+    border: 1px solid #eee;
+    padding: 10px;
+    padding-bottom: 4px;
+    text-align: center;
+    padding-bottom: 0;
+    border-radius: 5px;
+}
+
+.btn-group > div {
+    font-size: 12px;
+    border-right: 1px solid #eee;
+    width: 79px;
+    padding-bottom: 4px;
+}
+
+.btn-group > div:last-child {
+    border-right: none;
+}
+
+.calender {
+    width: 185px;
+    border: 1px solid #eee;
+    text-align: center;
+    padding: 11px 12px;
+    margin-right: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.calender > span {
+    font-size: 11px;
+    color: #bab6b6;
+    margin-right: 16px;
+}
+
+.chartjs {
+    padding: 20px 25px;
+}
+
+.acc-flex {
+    display: grid;
+    grid-template-columns: 22px 2fr;
+    margin-bottom: 23px;
+}
+
+.date-range-calendar {
+    position: absolute;
+    left: 192px;
+}
