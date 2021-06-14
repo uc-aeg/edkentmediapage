@@ -106,3 +106,9 @@
     display: inline;
   }
 }
+
+@media only screen and (max-width: 978px) {
+  #sidebar {
+    width:27vh;
+  }
+} 
