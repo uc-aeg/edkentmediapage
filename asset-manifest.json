@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/edkentmediapage/static/css/main.d9c7f226.chunk.css",
-    "main.js": "/edkentmediapage/static/js/main.c5f291a3.chunk.js",
-    "main.js.map": "/edkentmediapage/static/js/main.c5f291a3.chunk.js.map",
+    "main.js": "/edkentmediapage/static/js/main.dd6e55e3.chunk.js",
+    "main.js.map": "/edkentmediapage/static/js/main.dd6e55e3.chunk.js.map",
     "runtime-main.js": "/edkentmediapage/static/js/runtime-main.8346ed53.js",
     "runtime-main.js.map": "/edkentmediapage/static/js/runtime-main.8346ed53.js.map",
     "static/css/2.2400296c.chunk.css": "/edkentmediapage/static/css/2.2400296c.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.2400296c.chunk.css",
     "static/js/2.b1522062.chunk.js",
     "static/css/main.d9c7f226.chunk.css",
-    "static/js/main.c5f291a3.chunk.js"
+    "static/js/main.dd6e55e3.chunk.js"
   ]
 }
