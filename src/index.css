@@ -335,3 +335,10 @@ progress[value]::-webkit-progress-value {
       "main";
   }
 }
+
+@media only screen and (min-width: 1024px) and (max-width: 1280px) {
+  .container {
+    grid-template-columns: 180px 1fr 1fr 1fr;
+    grid-template-rows: 57px 3fr;
+  }
+}

@@ -56,7 +56,7 @@ const Sidebar = ({ sidebarOpen, closeSidebar }) => {
                     <Link to="/">Menu Option 9</Link>
                 </div>
             </div>
-            <div className="sidebar__link" style={{ position: 'absolute', bottom: '-22rem' }}>
+            <div className="sidebar__link" id="logout-btn">
                 <i className="fas fa-bars"></i>
                 <Link to="/">Logout</Link>
             </div>

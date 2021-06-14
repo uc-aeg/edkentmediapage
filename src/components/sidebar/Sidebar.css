@@ -97,6 +97,11 @@
   position: absolute;
 }
 
+#logout-btn {
+  position: absolute !important;
+  bottom: -22rem;
+}
+
 @media only screen and (max-width: 978px) {
   #sidebar {
     display: none;
@@ -107,8 +112,27 @@
   }
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1024px) and (max-width: 1275px) {
+  #sidebar {
+    width:14vh;
+  }
+
+  #logout-btn{
+    bottom: 2rem !important;
+  }
+} 
+
+@media only screen and (min-width: 1276px) and (max-width: 1300px) {
+  #sidebar {
+    width:35vh;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
   #sidebar {
     width:27vh;
   }
-} 
+  #logout-btn{
+    bottom: -21rem !important;
+  }
+}
