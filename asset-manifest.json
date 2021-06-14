@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/edkentmediapage/static/css/main.775923a7.chunk.css",
+    "main.css": "/edkentmediapage/static/css/main.44c262b3.chunk.css",
     "main.js": "/edkentmediapage/static/js/main.6d82dcba.chunk.js",
     "main.js.map": "/edkentmediapage/static/js/main.6d82dcba.chunk.js.map",
     "runtime-main.js": "/edkentmediapage/static/js/runtime-main.8346ed53.js",
@@ -12,7 +12,7 @@
     "static/js/3.86475433.chunk.js.map": "/edkentmediapage/static/js/3.86475433.chunk.js.map",
     "index.html": "/edkentmediapage/index.html",
     "static/css/2.2400296c.chunk.css.map": "/edkentmediapage/static/css/2.2400296c.chunk.css.map",
-    "static/css/main.775923a7.chunk.css.map": "/edkentmediapage/static/css/main.775923a7.chunk.css.map",
+    "static/css/main.44c262b3.chunk.css.map": "/edkentmediapage/static/css/main.44c262b3.chunk.css.map",
     "static/js/2.b1522062.chunk.js.LICENSE.txt": "/edkentmediapage/static/js/2.b1522062.chunk.js.LICENSE.txt",
     "static/media/acc1.5b8c8898.jpeg": "/edkentmediapage/static/media/acc1.5b8c8898.jpeg",
     "static/media/acc2.eb64cea8.jpeg": "/edkentmediapage/static/media/acc2.eb64cea8.jpeg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.8346ed53.js",
     "static/css/2.2400296c.chunk.css",
     "static/js/2.b1522062.chunk.js",
-    "static/css/main.775923a7.chunk.css",
+    "static/css/main.44c262b3.chunk.css",
     "static/js/main.6d82dcba.chunk.js"
   ]
 }
