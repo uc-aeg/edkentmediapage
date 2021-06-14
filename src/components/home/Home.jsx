@@ -67,18 +67,21 @@ const Home = () => {
                         num='1356'
                         type='TYPE2'
                         toggle=''
+                        alt='card 1'
                     />
                     <CardComponent
                         img={img3}
                         num='1258'
                         type='TYPE3'
                         toggle={toggle}
+                        alt='card 2'
                     />
                     <CardComponent
                         img={img4}
                         num='534'
                         type='TYPE4'
                         toggle={toggle}
+                        alt='card 3'
                     />
                 </div>
                 {/* Chart Section */}
